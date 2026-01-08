@@ -84,15 +84,15 @@ The project covers application deployment, reverse proxy configuration, automate
 ---
 
 ## Project Structure
-".
+.
 ├── README.md
 ├── scripts
-│ ├── log_backup.sh
-│ └── monitor.py
+│   ├── log_backup.sh
+│   └── monitor.py
 ├── configs
-│ └── nginx.conf
+│   └── nginx.conf
 └── docs
-└── project-summary.pdf"
+    └── project-summary.pdf
 
 ---
 
