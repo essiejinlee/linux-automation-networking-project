@@ -23,11 +23,12 @@ The project covers application deployment, reverse proxy configuration, automate
 - Nginx is configured as a reverse proxy to forward external HTTP traffic to the application
 - The Spring Boot application runs as a `systemd` service to ensure availability after reboot or failure
 - Repetitive operational tasks are automated using cron jobs
-
+```
 [User Browser]
 → HTTP/HTTPS (80/443)
 → [Nginx Reverse Proxy]
 → [Spring Boot Application :8080]
+```
 
 ---
 
@@ -84,6 +85,7 @@ The project covers application deployment, reverse proxy configuration, automate
 ---
 
 ## Project Structure
+```
 .
 ├── README.md
 ├── scripts
@@ -93,6 +95,7 @@ The project covers application deployment, reverse proxy configuration, automate
 │   └── nginx.conf
 └── docs
     └── project-summary.pdf
+```
 
 ---
 
