@@ -1,4 +1,4 @@
-# Linux-based Web Service Deployment & Automation
+# Linux-automation-networking-project
 
 ## Project Overview
 This project focuses on deploying and operating a web service on a Linux server, with an emphasis on automation and operational stability.  
@@ -84,7 +84,7 @@ The project covers application deployment, reverse proxy configuration, automate
 ---
 
 ## Project Structure
-.
+".
 ├── README.md
 ├── scripts
 │ ├── log_backup.sh
@@ -92,7 +92,7 @@ The project covers application deployment, reverse proxy configuration, automate
 ├── configs
 │ └── nginx.conf
 └── docs
-└── project-summary.pdf
+└── project-summary.pdf"
 
 ---
 
