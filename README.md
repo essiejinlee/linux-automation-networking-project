@@ -61,8 +61,6 @@ The project covers application deployment, reverse proxy configuration, automate
 
 **Location:** `scripts/log_backup.sh`
 
----
-
 ### 2. Server Monitoring & Slack Alerts (Python)
 - Implemented a Python-based monitoring script using `psutil`
 - Periodically checks:
